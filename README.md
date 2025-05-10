@@ -1,2 +1,2 @@
-# GIT_FLOW_DEMO
+# GIT_WORKFLOW_DEMO
 git flow demo
